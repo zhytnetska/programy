@@ -1,3 +1,3 @@
 # Практична робота №3 
 ### Алгоритми сортування на мові с++
-![alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnaurok.com.ua%2Fpost%2Fprogramuvannya-unikalne-navchannya-dlya-rozvitku-ta-uspihu&psig=AOvVaw19WyAhfnTMPVRhCzzoVHGF&ust=1695968498091000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCMDLmpHVzIEDFQAAAAAdAAAAABAD "shih-tzu")
+![alt](http://ipkey.com.ua//media/k2/items/cache/a47bdb2ae5a99dc68185bc94a1d4224c_XL.jpg "shih-tzu")
